@@ -16,12 +16,11 @@ $color-grey-dark: #777;
 $color-grey-dark-2: #999;
 $color-grey-dark-3: #333;
 
-
 $color-white: #fff;
 $color-black: #000;
 
 //box-shadow
-$box-shadow-1: 0 1.5rem 4rem rgba($color-black, .15);
+$box-shadow-1: 0 1.5rem 4rem rgba($color-black, 0.15);
 
 //border radius
 $radius-1: 3px;
@@ -32,4 +31,5 @@ $default-font-size: 1.6rem;
 //grid
 $gutter-width: 114rem;
 $gutter-vertical: 8rem;
+$gutter-verttical-small: 6rem;
 $gutter-horizontal: 6rem;
